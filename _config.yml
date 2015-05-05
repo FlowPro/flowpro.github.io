@@ -8,9 +8,9 @@ collections:
     render: true
     output: true
 main_links:
-  -
-    title: 1st layout
-    link: /index.html
+#  -
+#    title: 
+#    link: /index.html
 #  -
 #    title: 2nd layout
 #    link: /index2.html
