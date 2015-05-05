@@ -7,7 +7,7 @@ collections:
     title: APIs
     render: true
     output: true
-main_links:
+#main_links:
 #  -
 #    title: 
 #    link: /index.html
