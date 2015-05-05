@@ -11,15 +11,15 @@ main_links:
   -
     title: 1st layout
     link: /index.html
-  -
-    title: 2nd layout
-    link: /index2.html
-  -
-    title: 3rd layout
-    link: /index3.html
-  -
-    title: 4th layout
-    link: /index4.html
+#  -
+#    title: 2nd layout
+#    link: /index2.html
+#  -
+#    title: 3rd layout
+#    link: /index3.html
+#  -
+#    title: 4th layout
+#    link: /index4.html
 defaults:
   -
     scope:
