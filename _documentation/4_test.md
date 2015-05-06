@@ -1,5 +1,5 @@
 --
-Index: test
+type: test
 --
 
 ## A New Post
