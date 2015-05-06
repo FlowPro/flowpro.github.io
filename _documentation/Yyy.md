@@ -1,5 +1,5 @@
 ---
-title: 5_yyyydd
+title: yyyydd
 published: true
 ---
 
